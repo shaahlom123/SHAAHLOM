@@ -1,0 +1,16 @@
+[
+	{
+		"version": "1.0.1",
+		"files": {
+			"scripts/commands/ai.js": "ck",
+			"scripts/commands/auto.js": ""
+		}
+  },
+	{
+		"version": "5.2.2",
+		"files": {
+			"scripts/commands/ai.js": "ck",
+			"scripts/commands/auto.js": ""
+		}
+  }
+]
