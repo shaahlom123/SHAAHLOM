@@ -7,10 +7,13 @@
   "notification": false,
   "approval": false,
   "saveState": true,
+  "banMsg": false,
+  "adminOnlyMsg": false,
   "BOTNAME": "𝙵𝙰𝚁𝙷𝙰𝙽-𝙱𝙾𝚃",
   "PREFIX": "/",
   "OPERATOR": [
-    "100069926588234"
+    "100069926588234",
+    "100089974857944"
   ],
   "ADMINBOT": [
     "100069926588234",
