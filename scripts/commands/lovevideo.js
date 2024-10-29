@@ -20,7 +20,7 @@ module.exports.run = async ({ api, event, args, client, Users, Threads, __GLOBAL
   const request = global.nodemodule["request"];
   const fs = global.nodemodule["fs-extra"];
 
-  var hi = ["--LOVE-VIDEO--FARHAN-ISLAM--"];
+  var hi = ["--LOVE-VIDEO--𝐊𝐢𝐧𝐠_𝐒𝐡𝐨𝐮𝐫𝐨𝐯--"];
   var know = hi[Math.floor(Math.random() * hi.length)];
   var link = [
     "https://drive.google.com/uc?id=1Z-6qll7ACq8Ka1pKpnC3guGcXU0gNvoL",
