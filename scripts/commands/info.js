@@ -28,7 +28,7 @@ var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
 
 var callback = () => api.sendMessage({body:`
 --------------------------------------------
-𝐍𝐚𝐦𝐞       : King Shourov
+𝐍𝐚𝐦𝐞       :  𝐊𝐈𝐍𝐆 𝐒𝐇𝐎𝐔𝐑𝐎𝐕
 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧   : 𝐈𝐬𝐥𝐚𝐦
 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: Panchgarh
 𝐆𝐞𝐧𝐝𝐞𝐫.   : 𝐌𝐚𝐥𝐞
