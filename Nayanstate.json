@@ -5,8 +5,8 @@
         "domain": "facebook.com",
         "path": "/login/device-based/",
         "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
     },
     {
         "key": "datr",
@@ -14,8 +14,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
     },
     {
         "key": "sb",
@@ -23,8 +23,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
     },
     {
         "key": "wd",
@@ -32,8 +32,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
     },
     {
         "key": "c_user",
@@ -41,8 +41,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
     },
     {
         "key": "xs",
@@ -50,8 +50,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
     },
     {
         "key": "fr",
@@ -59,8 +59,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
     },
     {
         "key": "locale",
@@ -68,8 +68,8 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
     },
     {
         "key": "vpd",
@@ -77,27 +77,25 @@
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
-    },
-    {
-        "key": "fbl_st",
-        "value": "101626017%3BT%3A28837870",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
     },
     {
         "key": "wl_cbv",
-        "value": "v2%3Bclient_version%3A2658%3Btimestamp%3A1730272250",
+        "value": "v2%3Bclient_version%3A2658%3Btimestamp%3A1730279891",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2024-10-30T07:20:40.717Z",
-        "lastAccessed": "2024-10-30T07:20:40.717Z"
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101528538%3BT%3A28837998",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-10-30T09:18:16.684Z",
+        "lastAccessed": "2024-10-30T09:18:16.684Z"
     }
 ]
-
-Facebook – log in or sign up
